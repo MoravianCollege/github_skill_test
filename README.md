@@ -12,11 +12,3 @@ During this skill test, a student will have to:
 * Merge changes from `upstream`
 * Commit and push to your fork
 * Create a Pull Request
-=======
-1. Fork the project
-2. Clone the project
-3. Make a change to the project
-4.  Merge changes from `upstream`
-5. Commit and push to your fork
-6. Create a Pull Request
->>>>>>> 8c4511e4f1edbaf69a4b916329426aaccce97209
